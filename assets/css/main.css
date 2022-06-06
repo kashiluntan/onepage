@@ -1775,7 +1775,7 @@ section {
   border: 1px solid var(--color-white);
   overflow: hidden;
   z-index: 1;
-  padding: 25px;
+  padding: 10px;
 }
 .portfolio .portfolio-item img {
   transition: all 0.3s;
@@ -2782,3 +2782,5 @@ section {
   background: var(--color-primary);
   text-decoration: none;
 }
+
+
